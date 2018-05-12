@@ -1,0 +1,28 @@
+_repo: The-Swedish-Revolution-Under-Gustavus-Vasa_22458
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watson, Paul Barron
+    birthdate: 1861
+    deathdate: 1948
+    gutenberg_agent_id: '25335'
+    url: http://www.gutenberg.org/2009/agents/25335
+description: ''
+gutenberg_issued: '2007-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22458'
+  lccn: 05011480
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sweden -- History -- Gustav I Vasa, 1523-1560'
+- !lcc 'DL'
+- !lcsh 'Gustav I Vasa, King of Sweden, 1496-1560'
+title: The Swedish Revolution Under Gustavus Vasa
+url: http://www.gutenberg.org/ebooks/22458
